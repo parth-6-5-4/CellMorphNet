@@ -1195,8 +1195,6 @@ If you use CellMorphNet in your research or projects, please cite:
 
 **Project Maintainer**: Parth Dambhare
 
-**Email**: parthdambhare@gmail.com
-
 **GitHub**: [@parth-6-5-4](https://github.com/parth-6-5-4)
 
 **Issues**: https://github.com/parth-6-5-4/CellMorphNet/issues
