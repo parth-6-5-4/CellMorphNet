@@ -1,0 +1,48 @@
+# CellMorphNet Requirements
+# Python 3.10+
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=9.5.0
+
+# Data processing
+pandas>=2.0.0
+scikit-learn>=1.3.0
+opencv-python>=4.8.0
+
+# Augmentations
+albumentations>=1.3.1
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Model export
+coremltools>=7.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Web frameworks
+streamlit>=1.28.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Jupyter notebooks (optional)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
+
+# Development tools (optional)
+pytest>=7.4.0
+black>=23.9.0
+flake8>=6.1.0

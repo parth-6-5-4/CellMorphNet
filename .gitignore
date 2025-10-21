@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data - exclude all large dataset files
+data/raw/
+data/processed/
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.xml
+LISC Database/
+archive (1)/BCCD/
+test images/
+
+# Models
+models/*/
+*.pth
+*.pt
+*.onnx
+*.mlmodel
+*.mlpackage
+
+# Results
+results/
+*.pdf
+*.log
+
+# Environment
+.env
+.venv
+*.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
