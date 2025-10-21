@@ -2,29 +2,17 @@
 
 This guide will help you get started with CellMorphNet in under 10 minutes.
 
-## Prerequisites
+## Installation
 
-- macOS with M-series chip (or any system with Python 3.10+)
-- 8GB+ RAM
-- 5GB+ free disk space
-- Internet connection for downloading datasets
+### Prerequisites
+- Python 3.10+
+- pip or conda
 
-## Step-by-Step Setup
-
-### 1. Clone and Setup (2 minutes)
+### Step 1: Clone the Repository
 
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/CellMorphNet.git
+git clone https://github.com/parth-6-5-4/CellMorphNet.git
 cd CellMorphNet
-
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install --upgrade pip
-pip install -r requirements.txt
 ```
 
 ### 2. Download Dataset (1-2 minutes)

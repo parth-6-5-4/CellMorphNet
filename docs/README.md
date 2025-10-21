@@ -301,4 +301,4 @@ If you find issues in documentation:
 
 **Last Updated**: October 2025
 
-For the latest updates, see the [GitHub repository](https://github.com/yourusername/CellMorphNet).
+For the latest updates, see the [GitHub repository](https://github.com/parth-6-5-4/CellMorphNet).

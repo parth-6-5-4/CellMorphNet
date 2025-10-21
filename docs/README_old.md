@@ -69,7 +69,7 @@ CellMorphNet/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CellMorphNet.git
+git clone https://github.com/parth-6-5-4/CellMorphNet.git
 cd CellMorphNet
 
 # Create virtual environment
@@ -443,9 +443,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📧 Contact
 
-**Author**: [Your Name]
-**Email**: your.email@example.com
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Author**: Parth Dambhare
+**Email**: parthdambhare@gmail.com
+**GitHub**: [@parth-6-5-4](https://github.com/parth-6-5-4)
 
 For questions or issues, please open a GitHub issue.
 

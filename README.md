@@ -163,7 +163,7 @@ CellMorphNet/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/CellMorphNet.git
+git clone https://github.com/parth-6-5-4/CellMorphNet.git
 cd CellMorphNet
 ```
 
@@ -1136,9 +1136,9 @@ If you use CellMorphNet in your research or projects, please cite:
 ```bibtex
 @software{cellmorphnet2025,
   title={CellMorphNet: Lightweight Blood Cell Classification Framework},
-  author={Your Name},
+  author={Parth Dambhare},
   year={2025},
-  url={https://github.com/yourusername/CellMorphNet}
+  url={https://github.com/parth-6-5-4/CellMorphNet}
 }
 ```
 
@@ -1193,13 +1193,13 @@ If you use CellMorphNet in your research or projects, please cite:
 
 ## Contact
 
-**Project Maintainer**: [Your Name]
+**Project Maintainer**: Parth Dambhare
 
-**Email**: your.email@example.com
+**Email**: parthdambhare@gmail.com
 
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**GitHub**: [@parth-6-5-4](https://github.com/parth-6-5-4)
 
-**Issues**: https://github.com/yourusername/CellMorphNet/issues
+**Issues**: https://github.com/parth-6-5-4/CellMorphNet/issues
 
 For questions, bug reports, or feature requests, please open an issue on GitHub.
 
@@ -1248,4 +1248,4 @@ For questions, bug reports, or feature requests, please open an issue on GitHub.
 
 **Thank you for using CellMorphNet!**
 
-For the latest updates and releases, please visit the [GitHub repository](https://github.com/yourusername/CellMorphNet).
+For the latest updates and releases, please visit the [GitHub repository](https://github.com/parth-6-5-4/CellMorphNet).
